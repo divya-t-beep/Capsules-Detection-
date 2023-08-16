@@ -1,0 +1,7 @@
+path: "C:\\Users\\Murali Tenneti\\PycharmProjects\\pythonProject1\\data"
+train: "images\\train"
+val: "images\\train"
+
+# Classes
+names:
+  0: capsules
